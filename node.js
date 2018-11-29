@@ -8,7 +8,7 @@ module.exports = {
     'eslint:recommended',
     'airbnb-base',
     './rules/babel.js',
-    './rules/es2015.js',
+    './rules/es2018.js',
     './rules/style.js',
   ]
 }

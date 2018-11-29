@@ -10,7 +10,7 @@ module.exports = {
     './node_modules/eslint-config-airbnb/rules/react.js',
     './node_modules/eslint-config-airbnb/rules/react-a11y.js',
     './rules/babel.js',
-    './rules/es2015.js',
+    './rules/es2018.js',
     './rules/style.js',
   ]
 }
